@@ -326,7 +326,7 @@ a:hover {
   line-height: 0;
 }
 .back-to-top:hover {
-  background: #298eff;
+  background: #ee6560;
   color: #fff;
 }
 .back-to-top.active {
@@ -396,7 +396,7 @@ a:hover {
   outline: 0;
 }
 .button:hover {
-  background-color: #0062d3;
+  background-color: #ee6560;
   color: #fff;
   transition: all 500ms ease;
 }
@@ -1284,7 +1284,7 @@ footer {
   text-align: center;
   color: #fff;
   padding: 25px 0;
-  background: #0062d3;
+  background: #ee6560;
 }
 footer .copyright {
   margin-bottom: 0.3rem;
